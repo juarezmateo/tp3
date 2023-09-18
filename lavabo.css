@@ -1,0 +1,236 @@
+/* Reset de estilos */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(252, 1, 105);
+}
+
+/* Estilos para la barra de navegación */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+}
+
+.nav-links li {
+    margin-right: 20px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.nav-links a:hover {
+    color: #8a2be2; /* Cambia el color al pasar el ratón sobre los enlaces */
+}
+
+.foto1{
+    text-align: center;
+}
+
+.foto1{
+    /* styles.css */
+
+    margin-top: 100px;
+
+
+
+    text-align: center;
+
+
+
+}
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+
+    margin-top: 20px;
+   
+}
+
+.sstele{
+
+
+    text-align: center;
+    
+}
+
+.cuadro {
+    border: 2px solid black; /* Borde de 2 píxeles de grosor */
+    background-color: blue; /* Fondo azul */
+    padding: 10px; /* Espacio interno alrededor del texto */
+    display: inline-block; /* Para que el cuadro se ajuste al contenido del texto */
+    
+}
+
+/* Estilos del texto */
+.texto {
+    color: white; /* Color del texto blanco */
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+
+.texto a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.texto a:hover {
+    color: #8a2be2; /* Cambia el color al pasar el ratón sobre los enlaces */
+}
+
+.koko{
+    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 50px;
+        margin: 0;
+    
+}
+
+
+.cuadro2 {
+    border: 2px solid black; /* Borde de 2 píxeles de grosor */
+    background-color: blue; /* Fondo azul */
+    padding: 10px; /* Espacio interno alrededor del texto */
+    display: inline-block; /* Para que el cuadro se ajuste al contenido del texto */
+    
+}
+
+/* Estilos del texto */
+.texto2 {
+    color: white; /* Color del texto blanco */
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+
+.texto2 a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.texto2 a:hover {
+    color: #8a2be2; /* Cambia el color al pasar el ratón sobre los enlaces */
+}
+
+.koko2{
+    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 50px;
+        margin: 0;
+    
+}
+
+
+.cuadro3 {
+    border: 2px solid black; /* Borde de 2 píxeles de grosor */
+    background-color: blue; /* Fondo azul */
+    padding: 10px; /* Espacio interno alrededor del texto */
+    display: inline-block; /* Para que el cuadro se ajuste al contenido del texto */
+    
+}
+
+/* Estilos del texto */
+.texto3 {
+    color: white; /* Color del texto blanco */
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+
+.texto3 a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.texto3 a:hover {
+    color: #8a2be2; /* Cambia el color al pasar el ratón sobre los enlaces */
+}
+
+.koko3{
+    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 50px;
+        margin: 0;
+    
+}
+
+
+
+.cuadro4 {
+    border: 2px solid black; /* Borde de 2 píxeles de grosor */
+    background-color: blue; /* Fondo azul */
+    padding: 10px; /* Espacio interno alrededor del texto */
+    display: inline-block; /* Para que el cuadro se ajuste al contenido del texto */
+    
+}
+
+/* Estilos del texto */
+.texto4 {
+    color: white; /* Color del texto blanco */
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+
+
+.texto4 a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.texto4 a:hover {
+    color: #8a2be2; /* Cambia el color al pasar el ratón sobre los enlaces */
+}
+
+.koko4{
+    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 50px;
+        margin: 0;
+    
+}
